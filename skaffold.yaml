@@ -15,4 +15,4 @@ build:
     namespace: argo
     pullSecretName: 
     dockerConfig:
-      secretName: docker-cfg-secret
+      secretName: docker-cfg-secretsomee
